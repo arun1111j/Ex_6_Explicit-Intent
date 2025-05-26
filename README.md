@@ -1,5 +1,5 @@
 # Ex.No:6 Implement an application that uses Explicit Intent using Android
-
+## DATE: 27/03/2025
 
 ## AIM:
 
